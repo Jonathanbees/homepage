@@ -11,3 +11,4 @@ My first personal website. Basically this is just a résumé.
 - html
 - css
 - binary-studio-academy
+🧙Hocus-pocus! 
